@@ -1,0 +1,5 @@
+['Public Key: 6Nj2psSiZ1h85oipJUhYAd5uyJGJRoszRrS4JLmwrXiL
+Private Key: 2MWnARM4aLU3W4BopWun8h5yscFKDu7XkQfy4P2v1fb5']
+
+[({'inputs': [{'owners_before': ['6Nj2psSiZ1h85oipJUhYAd5uyJGJRoszRrS4JLmwrXiL'], 'fulfills': None, 'fulfillment': 'pGSAIE_bKCFT1NFGySj4oY8N_efAtWUvEF0Y1fSY5OlJ9ZhdgUDHVCxg1R_Vf1-sa97VTJI3bVTnSNPXr_KDP6f_CstfQhPubnNGmGoS0jA-3ZKwhpXs5kAqLwmybcQs370bVYEB'}], 'outputs': [{'public_keys': ['6Nj2psSiZ1h85oipJUhYAd5uyJGJRoszRrS4JLmwrXiL'], 'condition': {'details': {'type': 'ed25519-sha-256', 'public_key': '6Nj2psSiZ1h85oipJUhYAd5uyJGJRoszRrS4JLmwrXiL'}, 'uri': 'ni:///sha-256;ywX3EiPwnzWlz-IOwMHdlgqWwP0fDyGzbb_DZJvqxh0?fpt=ed25519-sha-256&cost=131072'}, 'amount': '1'}], 'operation': 'CREATE', 'metadata': None, 'asset': {'data': {'car': {'vehicle_number': 'dawdawd', 'manufacturer': 'varun'}}}, 'version': '2.0', 'id': 'dba3c90c3852c6d6c83eb3273da32cfb88027e3c36fb8f98a16ec37fde08e933'}, '2MWnARM4aLU3W4BopWun8h5yscFKDu7XkQfy4P2v1fb5')]
+
